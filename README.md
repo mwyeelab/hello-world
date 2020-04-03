@@ -1,2 +1,5 @@
 # hello-world
-Used for Github tutorial
+
+I really don't know what I'm doing.  I am just following the tuturial guide instructions.
+
+
